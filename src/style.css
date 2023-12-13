@@ -1,0 +1,26 @@
+td{
+border:3px solid Red;  
+color:Red;    
+padding:10px;
+}
+h1{
+text-align:center;
+color:Aqua  
+}
+body{
+ background-image:url("https://img.freepik.com/free-photo/neon-tropical-monstera-leaf-banner_53876-138943.jpg?w=826&t=st=1702476390~exp=1702476990~hmac=34e63f384fb4efd1e6384cb3cb4de5fcfc2956bef3fb72978dca786f749ae10e")  
+}
+table{
+border:3px solid Red;  
+}  
+table{
+text-align:center;
+color:Red; 
+}
+.tab{
+  display:flex;
+  justify-content:center; 
+}
+img{
+ border:3px solid Red;    
+}
